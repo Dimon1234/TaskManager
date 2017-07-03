@@ -1,0 +1,21 @@
+.none
+{
+    display: none;
+}
+div.description
+{
+    position: absolute;
+    margin: -99999px ;
+}
+div.description:hover
+{
+    margin: 10px;
+    position: absolute;
+    display: block;
+}
+
+
+ul.ulListTasks li {
+    display: inline; /* Отображать как строчный элемент */
+
+}
